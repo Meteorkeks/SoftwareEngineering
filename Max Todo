@@ -1,23 +1,17 @@
 
-Datenablage (Repository)
-
 Iterator
 
 Schichtenarchitektur
 
-Vermittler (Mediator)
-
-Adapter
+Vermittler(Mediator)
 
 Fließband
 
-Rahmenprogramm (Framework)
+Rahmenprogramm(Framework)
 
 Kompositum (Composite)
 
 Besucher
-
-Fabrikmethode
 
 Abstrakte Fabrik
 
